@@ -13,8 +13,9 @@
 <a href="https://www.facebook.com/">
   <img align="left" alt="Guilherme Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=GuilhermeDeFFerreira&color=blueviolet" align="left">
 -->
+<img src="https://komarev.com/ghpvc/?username=GuilhermeDeFFerreira&color=blueviolet" align="left">
+
 
 
 
@@ -54,4 +55,7 @@
 -->
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<img src="https://github-readme-stats.vercel.app/api?username=GuilhermeDeFFerreira&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="GuilhermeDeFFerreira GitHub Stats">
+
+<!--
+  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeDeFFerreira&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="GuilhermeDeFFerreira GitHub Stats">
+ -->
